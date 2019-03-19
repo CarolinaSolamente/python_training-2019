@@ -1,1 +1,1 @@
-# python_training-2019
+# Repository for Python Training 2019
